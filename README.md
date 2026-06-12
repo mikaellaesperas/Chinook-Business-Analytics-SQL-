@@ -47,25 +47,6 @@ The following tables were primarily used in this project:
 
 SQL was used to extract, aggregate, and analyze data from the database.
 
-### SQL Concepts Applied
-
-- SELECT statements
-- INNER JOINs
-- Aggregate functions (SUM, COUNT, AVG)
-- GROUP BY
-- ORDER BY
-- Multi-table relational analysis
-
-### Business Analyses Performed
-
-- Total customer count
-- Total revenue calculation
-- Average order value (AOV)
-- Customer revenue analysis
-- Revenue by country
-- Revenue by genre
-- Product performance analysis
-
 ---
 
 ## Dashboard Components
